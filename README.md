@@ -9,9 +9,7 @@ This repository contains the source code for a Hotel Booking Management System d
 - [Installation](#installation)
 - [Usage](#usage)
 - [Database Structure](#database-structure)
-- [Contributing](#contributing)
   
-
 ## Introduction
 
 The Hotel Booking Management System is designed to streamline the process of managing hotel bookings,room availability, and reservations.
@@ -52,7 +50,3 @@ The database consists of the following tables:
 - `logs`: Maintains system activity logs.
 
 For a detailed schema, refer to the `database.sql` file.
-
-## Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) before submitting pull requests.
